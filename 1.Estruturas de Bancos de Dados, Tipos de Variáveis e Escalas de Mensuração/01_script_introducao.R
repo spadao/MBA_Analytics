@@ -74,7 +74,7 @@ nome <- rafael
 
 nome_1 <- "rafael"
 
-nome_1
+nome_1 
 
 #ou
 
